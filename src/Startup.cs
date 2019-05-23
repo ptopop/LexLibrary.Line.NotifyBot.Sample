@@ -33,8 +33,8 @@ namespace LexLibrary.Line.NotifyBot.Sample
 
             services.AddLineNotifyBot(new LineNotifyBotSetting
             {
-                ClientID = "",
-                ClientSecret = "",
+                ClientID = "syvbhCGEhxfcG8MTREBUxj",
+                ClientSecret = "1KSLpsn3jHEDeSG0lPyE1BJDkhG0K5vULFfggAqyI9U",
                 AuthorizeApi = "https://notify-bot.line.me/oauth/authorize",
                 TokenApi = "https://notify-bot.line.me/oauth/token",
                 NotifyApi = "https://notify-api.line.me/api/notify",
